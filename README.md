@@ -53,7 +53,7 @@ streamlit run streamlit_app.py
 
 the rest API is deployed on streamlit global server and the url is a public address:
 
-Link to the app:- https://share.streamlit.io/samikshasharan2001/microsoft-engage-project/main
+Link to the app:-
 
 ---
 # More About the project
